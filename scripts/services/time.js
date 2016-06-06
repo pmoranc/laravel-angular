@@ -1,4 +1,4 @@
-cripts/services/time.js */
+/* scripts/services/time.js */
     
 (function() {
     
